@@ -289,7 +289,7 @@ function CelebrationPage() {
           <h2 className="celebration-title">MERCI D'ÊTRE LÀ ! 🌟</h2>
 
           <p className="message">
-            Depuis août 2025, tu es devenu(e) une personne si précieuse dans ma vie...
+            Depuis août 2025, tu es devenu une personne si précieuse dans ma vie...
           </p>
 
           <div className="hearts">
